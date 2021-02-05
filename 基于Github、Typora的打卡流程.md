@@ -25,7 +25,7 @@ Github用于团队监督与交流，Typora用于编辑markdown文档
 
 官网下载，Next安装。
 
-[Git30min入门]: https://www.runoob.com/git/git-tutorial.html
+Github30min入门：https://www.runoob.com/git/git-tutorial.html 
 
 ### Github建仓基本命令
 
