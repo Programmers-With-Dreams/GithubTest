@@ -6,21 +6,18 @@ Github用于团队监督与交流，Typora用于编辑markdown文档
 
 1. Typora下载
 
-   官网下载较慢，用这个链接
+   官网下载较慢，用这个链接https://gitee.com/typora-mirror/Typora-Mirror/releases 
 
    [国内Typora镜像]: https://gitee.com/typora-mirror/Typora-Mirror/releases
 
 2. Typora使用方法
 
-   Typora是一个优秀的Markdown文本编辑器，只需要学习Markdown基本语法即可。
-
-   [Markdown语法速览]: https://www.jianshu.com/p/191d1e21f7ed
+   Typora是一个优秀的Markdown文本编辑器，只需要学习Markdown基本语法即可。Markdown语法速览：https://www.jianshu.com/p/191d1e21f7ed
 
 3. Typora的使用场景
 
-   用于文件的编写，将文件存入本地文件夹，之后上传到Github团队工作区。
+   用于文件的编写，将文件存入本地文件夹，之后上传到Github团队工作区。文件模板：https://github.com/Programmers-With-Dreams/GithubTest/tree/dyd
 
-   [文件模板]: https://github.com/Programmers-With-Dreams/GithubTest/tree/dyd
 
 ## Github使用
 
